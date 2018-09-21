@@ -5,9 +5,11 @@
   height: 35px;
   width: 85px;
 }
+
 .menu:hover{
   background-color: #C64838;
   border: none;
+  cursor: pointer;
 }
 
 @media only screen and (min-width: 992px){
